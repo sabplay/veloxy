@@ -64,3 +64,4 @@ IP HIDER/SESSION ENCRYPTER **IS NOT MALWARE (even though it triggers the antivir
   - [x] Support for 32-BIT
   - [x] IP LIST (including paid servers)
   - [x] Net diverting (for better ping)
+  - [ ] Games dont think this is hack
