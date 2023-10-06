@@ -22,22 +22,18 @@ ___IMPORTANT NOTE___
   - [x] Support for 64-BIT
   - [x] Support for 32-BIT
   - [x] Net diverting (for better ping)
-  - [ ] IP LISTS (only incomplete listed here)
-    - [ ] France (seine)- 50%
-    - [ ] Singapore (all)
-    - [ ] Germany (Hamburg)- 90%
-    - [ ] Japan (Tokyo)- 98%
+  - [x] IP LISTS (only incomplete listed here)
   - [ ] Games dont think this is a hack (complete for VIP)
     - [x] Minecraft servers
     - [x] GTA Online
     - [x] Valorant
     - [x] Escape from Tarkov
     - [ ] PUBG: Battlegrounds
-    - [ ] Warzone 2.0
+    - [x] Warzone 2.0
     - [x] Fortnite
     - [x] Overwatch 2
     - [ ] DoTA 2
-    - [ ] CS: GO
+    - [x] CS: GO
     - [x] Rocket League
     - [x] Destiny 2
     - [x] Apex Legends
