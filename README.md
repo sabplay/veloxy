@@ -17,13 +17,13 @@ ___IMPORTANT NOTE___
 * ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
 
 # PROGRESS OF THIS PROJECT
-- [ ] Free
+- [x] Free
   - [x] Support for all games
   - [x] Support for 64-BIT
   - [x] Support for 32-BIT
   - [x] Net diverting (for better ping)
   - [x] IP LISTS (only incomplete listed here)
-  - [ ] Games dont think this is a hack (complete for VIP)
+  - [x] Games dont think this is a hack (complete for VIP)
     - [x] Minecraft servers
     - [x] GTA Online
     - [x] Valorant
