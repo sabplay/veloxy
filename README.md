@@ -28,24 +28,24 @@ ___IMPORTANT NOTE___
     - [x] GTA Online
     - [x] Valorant
     - [x] Escape from Tarkov
-    - [ ] PUBG: Battlegrounds
+    - [x] PUBG: Battlegrounds
     - [x] Warzone 2.0
     - [x] Fortnite
     - [x] Overwatch 2
-    - [ ] DoTA 2
+    - [x] DoTA 2
     - [x] CS: GO
     - [x] Rocket League
     - [x] Destiny 2
     - [x] Apex Legends
     - [x] World of Warcraft
-    - [ ] Final Fantasy 14 Online
-    - [ ] Battlefield 2042
+    - [x] Final Fantasy 14 Online
+    - [x] Battlefield 2042
     - [x] Borderlands 3
-    - [ ] Tom Clancy’s The Division 2
-    - [ ] Hunt: Showdown
+    - [x] Tom Clancy’s The Division 2
+    - [x] Hunt: Showdown
     - [x] Dead By Daylight
     - [x] Tom Clancy’s Rainbow Six Siege
-    - [ ] War Thunder
+    - [x] War Thunder
     - [x] League of Legends
     - [x] Payday 2
     - [x] Max Payne 3
@@ -59,6 +59,11 @@ ___IMPORTANT NOTE___
   - [x] IP LIST (including paid servers)
   - [x] Net diverting (for better ping)
   - [x] Games dont think this is hack
-  - [ ] Premium servers (only incomplete listed here)
-    - [ ] Singapore- 95%
-    - [ ] Netherlands- 80%
+  - [x] Premium servers (only incomplete listed here)
+    - [x] Singapore
+    - [x] Netherlands
+  - [ ] Extra features
+    - [ ] Optimize according to game - 95%
+    - [ ] Fix Game Files - 80% (files of some games are still bbeing uploaded
+    - [ ] Optimization mod menu - 60%
+    - [ ] Faster Joining (for online games) - 71%
