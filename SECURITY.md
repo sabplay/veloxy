@@ -11,6 +11,10 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 Supported reporting methods (contact here):
-- [x] Discord: @sabplay#7343
-- [x] Instagram: @the_real_sabplay_yt
+- [x] Discord:
+  - [x] sabplay#7343
+  - [x] Cheesymonkey456#4774
+- [x] Instagram:
+  - [x] [@the_real_sabplay_yt (click to visit)](https://www.instagram.com/the_real_sabplay_yt/)
+  - [x] [@manikyaporwal(click to visit)](https://www.instagram.com/manikyaporwal/)
 - [x] Telegram: @OPCONFIG_OWNER
