@@ -63,7 +63,7 @@ ___IMPORTANT NOTE___
     - [x] Singapore
     - [x] Netherlands
   - [ ] Extra features
-    - [ ] Optimize according to game - 95%
-    - [ ] Fix Game Files - 80% (files of some games are still bbeing uploaded
+    - [x] Optimize according to game
+    - [ ] Fix Game Files - 89% (files of some games are still being uploaded)
     - [ ] Optimization mod menu - 60%
     - [ ] Faster Joining (for online games) - 71%
